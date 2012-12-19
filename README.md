@@ -10,7 +10,7 @@ In the spirit of open source software development, jQuery always encourages comm
 2. [Core Style Guide](http://docs.jquery.com/JQuery_Core_Style_Guidelines)
 3. [Tips For Bug Patching](http://docs.jquery.com/Tips_for_jQuery_Bug_Patching)
 
-
+h
 What you need to build your own jQuery
 --------------------------------------
 
